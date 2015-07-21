@@ -6,6 +6,8 @@ Logo of Origami UI
 
 ![](./origami-ui.png)
 
+Tab icon ![](./origami-icon.png)
+
 ### Colors
 
 * `hsl(120,90%,90%)`
